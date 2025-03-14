@@ -1,5 +1,5 @@
 # FD-calculator
-this a simple  calculator for FD calculation
+this a simple  calculator for FD calculation  using core concepts of html,css and javascript
 
 formula :
 
